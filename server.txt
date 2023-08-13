@@ -1,1 +1,1 @@
-https://zerobot.org/dashboard/ajax/admin/ajax_check_machine.php
+https://zerobot.info/dashboard/ajax/admin/ajax_check_machine.php
